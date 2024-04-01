@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @cfoltran
-- 👀 I’m interested in Web, Insfrastructure and ML
-- 🌱 I’m currently learning ML
+🕵️‍♂️ I'm searching problems to solve
 
 <!---
 cfoltran/cfoltran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
